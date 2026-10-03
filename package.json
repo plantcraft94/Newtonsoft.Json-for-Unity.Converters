@@ -1,0 +1,36 @@
+{
+  "name": "plantcraft94.newtonsoft.json-for-unity.converters",
+  "displayName": "Json.NET Converters of Unity types",
+  "version": "1.6.4",
+  "unity": "6000.6",
+  "unityRelease": "0f1",
+  "description": "This package contains converters to and from common Unity types (Vector2, Vector3, Matrix4x4, Quaternion, Color, Bounds, ScriptableObject, and more). Compatible with Unity 6.6 (6000.6) and works seamlessly with both official com.unity.nuget.newtonsoft-json and jillejr.newtonsoft.json-for-unity.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plantcraft94/Newtonsoft.Json-for-Unity.Converters.git"
+  },
+  "keywords": [
+    "json",
+    "json.net",
+    "newtonsoft",
+    "newtonsoft.json",
+    "unity",
+    "upm",
+    "converters"
+  ],
+  "author": "plantcraft94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plantcraft94/Newtonsoft.Json-for-Unity.Converters/issues"
+  },
+  "homepage": "https://github.com/plantcraft94/Newtonsoft.Json-for-Unity.Converters#readme",
+  "category": "Utility",
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Sample Project Assets",
+      "description": "Sample scenes, addressables configurations, and resources demonstrating Unity converter usage.",
+      "path": "Samples~/SampleProject"
+    }
+  ]
+}

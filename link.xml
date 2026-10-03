@@ -1,0 +1,9 @@
+<linker>
+  <assembly fullname="UnityEngine">
+    <type fullname="UnityEngine.Ray2D" />
+    <type fullname="UnityEngine.Keyframe" />
+  </assembly>
+  <assembly fullname="Newtonsoft.Json.UnityConverters">
+    <type fullname="*" preserve="all"/>
+  </assembly>
+</linker>
