@@ -15,19 +15,8 @@ This package contains converters to and from common Unity types for Newtonsoft.J
 
 ### Newtonsoft.Json packages
 
-This package requires the `Newtonsoft.Json.dll` assembly to be present in your project. It works seamlessly with any of the following:
-
 - **Unity's official Newtonsoft.Json package** *(recommended)*:  
   [`com.unity.nuget.newtonsoft-json`](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.2/manual/index.html) (available directly via Unity Registry)
-
-- **jilleJr's package**:  
-  [`jillejr.newtonsoft.json-for-unity`](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
-
-- Any custom package or precompiled `Newtonsoft.Json.dll` placed in your project.
-
-### Newtonsoft.Json versions
-
-There is no hard pinning to a specific version. This package has been tested and works with Newtonsoft.Json `10.0.3`, `11.0.2`, `12.0.3`, and `13.0.1+`.
 
 ---
 
